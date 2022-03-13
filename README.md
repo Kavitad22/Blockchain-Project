@@ -53,7 +53,4 @@ Switch to dark theme when you need it or in Battery saver.
 ![Dark_theme](screenshots/dark_theme.png "Dark theme")
 
 
-Contact
-----------
-For anything about the project, you can email me at eagb.mb@gmail.com.
-You can visit my [website](https://eagb-corp.web.app).
+
